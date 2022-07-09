@@ -1,7 +1,7 @@
 # INTRODUCTION
 
 **SUR NAME:**   Agu <br/>
-**FIRST NAME:** Chux <br/>
+**FIRST NAME:** Stanley <br/>
 **STATE:**  Enugu State <br/>
 **L.G.A:**  Ezeagu <br/>
 **SEX:**    Male <br/>
