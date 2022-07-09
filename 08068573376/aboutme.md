@@ -1,22 +1,22 @@
 # INTRODUCTION
 
-**SUR NAME:**   Agu
-**FIRST NAME:** Chux
-**STATE:**  Enugu State
-**L.G.A:**  Ezeagu
-**SEX:**    Male
-**AGE:**    42
+**SUR NAME:**   Agu <br/>
+**FIRST NAME:** Chux <br/>
+**STATE:**  Enugu State <br/>
+**L.G.A:**  Ezeagu <br/>
+**SEX:**    Male <br/>
+**AGE:**    42 <br/>
 
 # EXPERIENCED IN
 
-CSS
-HTML
-NodeJs
-ReactJS
-PHP
-Adobe FireWorks (CSS)
-MongoDB
-MySQL
+CSS <br/>
+HTML <br/>
+NodeJs <br/>
+ReactJS <br/>
+PHP <br/>
+Adobe FireWorks (CSS) <br/>
+MongoDB <br/>
+MySQL <br/>
 
 # WORK EXPEREINCE
 
